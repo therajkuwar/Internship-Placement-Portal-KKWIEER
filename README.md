@@ -1,4 +1,4 @@
-# Internship & Placement Portal KKWIEER
+# OpportuNet: An Internship & Placement Portal for KKWIEER
 DBMS Project
 
 
